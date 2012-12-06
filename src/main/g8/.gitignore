@@ -1,3 +1,25 @@
+# os x
 .DS_Store
+
+# sbt
 target/
-/.lib/
+
+# IntelliJ IDEA
+.idea/
+.idea_modules/
+.lib/
+
+# Eclipse
+.classpath
+.project
+
+# editors
+*.swp
+~*
+
+# misc
+*.orig
+*.history
+*.log
+*.logs
+*.class
